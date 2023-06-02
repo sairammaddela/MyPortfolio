@@ -259,3 +259,33 @@ footer span{
     background-color: black;
     border: 1px solid white;
 }
+.Contact-section{
+    width: inherit;
+    position: relative;
+    top: 100px;
+    height: 620px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Contact-form{
+    width: 500px;
+    height: 600px;
+    
+}
+form button{
+    margin-left: 200px;
+    width: 100px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: transparent;
+    color: blue;
+    border-color: blue;
+}
+form button:hover{
+    scale: 1.05;
+    background-color: #8a36ca;
+    color: white;
+    border-color: #8a36ca;
+    transition: all 0.8s;
+}
