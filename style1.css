@@ -207,6 +207,7 @@ footer span{
     position: relative;
     left: 700px;
     top: -400px;
+    width: 550px;
 }
 .about-image img{
     border-radius: 60%;
