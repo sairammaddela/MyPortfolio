@@ -141,7 +141,7 @@ footer span{
     width: inherit;
     position: relative;
     top: 100px;
-    height: 620px;
+    height: 500px;
 
 }
 .Para{
@@ -184,6 +184,7 @@ footer span{
 .icons-about{
     position: relative;
     left: 65px;
+    top: -30px;
     font-size: 40px;
 }
 .insta-about{
