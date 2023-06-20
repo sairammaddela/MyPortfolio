@@ -127,6 +127,9 @@ main{
     cursor: pointer;
     transition: all 0.5s;
 }
+.introduction button:hover{
+    scale: 1.2;
+}
 @keyframes flicker
 {
 0% {opacity:0;}
@@ -138,6 +141,7 @@ main{
 }
 .icons{
     margin-top: 1rem;
+    font-size: 2rem;
 }
 .icons a{
     color:antiquewhite;
